@@ -129,6 +129,17 @@ Angular • Spring Boot • PostgreSQL
 
 ---
 
+# 📊 GitHub Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaveesh9876-png&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaveesh9876-png&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaveesh9876-png&theme=tokyonight"/>
+</p>
+
 ## 🧠 NoteMate
 
 AI-Powered Notes Summarizer that generates concise summaries from lengthy content.
@@ -184,10 +195,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesh9876-
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kaveesh9876-png&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kaveesh9876-png&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
-
----
 
 # 💼 Professional Highlights
 
