@@ -1,12 +1,16 @@
-<!-- HEADER -->
+````md
+<!-- ========================================= -->
+<!-- PREMIUM GITHUB PROFILE README -->
+<!-- ========================================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Kaveesh%20Dhiman&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203A43,100:2c5364&height=250&section=header&text=Kaveesh%20Dhiman&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kaveesh Dhiman</h1>
 
 <h3 align="center">
-Full Stack Developer | Angular • Spring Boot • Node.js • AWS
+Full Stack Developer | Angular • Spring Boot • AWS
 </h3>
 
 <p align="center">
@@ -14,116 +18,189 @@ Building scalable web applications and cloud-powered solutions 🚀
 </p>
 
 <p align="center">
-  <a href="mailto:kaveesh9876@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/kaveesh9876-png">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Angular+%7C+Spring+Boot+%7C+AWS;Cloud+Computing+Enthusiast;Building+Scalable+Applications;Ex-Intern+%40+NIC+Govt.+of+India" />
+</p>
 
-  <a href="https://www.linkedin.com/in/kaveesh-dhiman-4b619b322">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<p align="center">
+
+<a href="mailto:kaveesh9876@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kaveesh9876-png">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kaveesh-dhiman-4b619b322">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Final Year B.Tech Computer Science Student
+🎓 Final Year B.Tech Computer Science Engineering Student
 
 💻 Full Stack Developer
 
-🏢 Ex-Intern @ National Informatics Centre (NIC), Govt. of India
+🏢 Ex-Intern @ National Informatics Centre (NIC), Government of India
 
-🚀 Passionate about Backend Engineering, Cloud Computing & Modern UI/UX
+☁️ Cloud & AWS Enthusiast
 
-🌱 Currently learning AWS, System Design and DevOps
+🚀 Passionate about Backend Engineering, DevOps & Modern UI/UX
+
+🌱 Currently learning System Design, AWS Cloud & DevOps
 
 📫 Reach me at: **kaveesh9876@gmail.com**
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Current Mission Control
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,java,spring,nodejs,express,mongodb,postgresql,aws,html,css,js,ts,git,github,vscode" />
+
+| ☁️ Cloud Engineering | 🎓 Education Tech | ⚡ AWS Optimization |
+|:---:|:---:|:---:|
+| Building cloud-native solutions | Student Feedback System | Cloud Thrift Platform |
+
+| 🏗️ System Design | 🤖 AI Applications | 🚀 Full Stack |
+|:---:|:---:|:---:|
+| Scalable architectures | Intelligent automation | End-to-end development |
+
+</p>
+
+---
+
+# 🛠️ Tech Ecosystem
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,java,spring,nodejs,express,mongodb,postgresql,aws,docker,linux,html,css,js,ts,git,github,vscode" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔹 ChainClaim
+### ⛓️ ChainClaim
 
-Insurance Claim Management System with workflow automation, analytics dashboard, and secure claim processing.
+Insurance Claim Management Platform with workflow automation, fraud detection, analytics dashboard, and secure claim processing.
 
-### Tech Stack
-Angular • Spring Boot • PostgreSQL
-
----
-
-## 🔹 Cloud-Thrift
-
-Cloud Service Management Platform enabling scalable service deployment and monitoring.
-
-### Tech Stack
-Angular • Node.js • MongoDB • AWS
+**Tech Stack:** Angular • Spring Boot • PostgreSQL
 
 ---
 
-## 🔹 Student Feedback System
+### ⚡ Cloud Thrift
 
-Role-based academic feedback platform with secure authentication and admin dashboard.
+AWS Cost Optimization Platform that identifies idle cloud resources and reduces infrastructure waste through automation.
 
-### Features
-
-- JWT Authentication
-- Role-Based Access Control
-- Feedback Analytics
-- Admin Dashboard
-
-### Tech Stack
-
-Angular • Spring Boot • PostgreSQL
+**Tech Stack:** Python • AWS • Lambda • CloudWatch • Boto3
 
 ---
 
-## 🔹 NoteMate
+### 🎓 Student Feedback System
 
-AI-Powered Notes Summarizer that generates concise summaries from lengthy content.
+Role-based academic feedback platform with JWT authentication, analytics dashboard, and secure administration panel.
 
-### Tech Stack
-
-React • Node.js • OpenAI API • MongoDB
+**Tech Stack:** Angular • Spring Boot • PostgreSQL
 
 ---
-# 🐍 Contribution Snake
+
+### 🧠 NoteMate
+
+AI-powered Notes Summarizer that converts lengthy content into concise and meaningful summaries.
+
+**Tech Stack:** React • Node.js • MongoDB • OpenAI API
+
+---
+
+# 📊 Developer Analytics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
 
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=kaveesh9876-png&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesh9876-png&layout=compact&theme=tokyonight"/>
 
-# 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveesh9876-png&theme=tokyo-night" />
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🔥 Contribution Streak
 
-🏢 Internship at National Informatics Centre (NIC)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kaveesh9876-png&theme=tokyonight"/>
+</p>
 
-💻 Built multiple Full Stack Applications
+---
 
-☁️ Hands-on experience with AWS Cloud Services
+# 📈 Contribution Activity
 
-🎯 Strong focus on scalable backend systems
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveesh9876-png&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kaveesh9876-png&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 💼 Professional Highlights
+
+✔ Ex-Intern @ National Informatics Centre (NIC)
+
+✔ Full Stack Developer
+
+✔ Angular • Spring Boot • Node.js
+
+✔ AWS Cloud & DevOps Enthusiast
+
+✔ REST API Development
+
+✔ PostgreSQL & MongoDB
+
+✔ Secure Authentication Systems
+
+✔ Scalable Backend Architecture
+
+---
+
+# 🌍 Coding Journey
+
+```text
+Frontend      ████████████████ 95%
+Backend       ███████████████  90%
+Database      ██████████████   88%
+Cloud AWS     ████████████     80%
+DevOps        ██████████       75%
+System Design ███████████      78%
+````
+
+---
+
+# 🚀 Featured Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Angular-Framework-DD0031?style=for-the-badge&logo=angular"/>
+
+<img src="https://img.shields.io/badge/SpringBoot-Backend-6DB33F?style=for-the-badge&logo=springboot"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb"/>
+
+</p>
 
 ---
 
@@ -132,15 +209,15 @@ React • Node.js • OpenAI API • MongoDB
 <p align="center">
 
 <a href="mailto:kaveesh9876@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/kaveesh9876-png">
-  <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kaveesh-dhiman-4b619b322">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
@@ -161,4 +238,9 @@ React • Node.js • OpenAI API • MongoDB
 
 <p align="center">
 Made with ❤️ by <b>Kaveesh Dhiman</b>
-</p>ye lo isme krdoisme or kuch kru professinal lage 
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203A43,100:2c5364"/>
+</p>
+```
