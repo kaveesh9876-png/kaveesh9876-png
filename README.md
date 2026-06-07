@@ -1,6 +1,5 @@
-````md
 <!-- ========================================= -->
-<!-- PREMIUM GITHUB PROFILE README -->
+<!-- KAVEESH DHIMAN - GITHUB PROFILE README -->
 <!-- ========================================= -->
 
 <p align="center">
@@ -10,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Kaveesh Dhiman</h1>
 
 <h3 align="center">
-Full Stack Developer | Angular • Spring Boot • AWS
+Full Stack Developer | Angular • Spring Boot • Node.js • AWS
 </h3>
 
 <p align="center">
@@ -47,11 +46,11 @@ Building scalable web applications and cloud-powered solutions 🚀
 
 🏢 Ex-Intern @ National Informatics Centre (NIC), Government of India
 
-☁️ Cloud & AWS Enthusiast
+☁️ AWS Cloud & DevOps Enthusiast
 
-🚀 Passionate about Backend Engineering, DevOps & Modern UI/UX
+🚀 Passionate about Backend Engineering, Cloud Computing & Modern UI/UX
 
-🌱 Currently learning System Design, AWS Cloud & DevOps
+🌱 Currently learning AWS, System Design and DevOps
 
 📫 Reach me at: **kaveesh9876@gmail.com**
 
@@ -67,13 +66,23 @@ Building scalable web applications and cloud-powered solutions 🚀
 
 | 🏗️ System Design | 🤖 AI Applications | 🚀 Full Stack |
 |:---:|:---:|:---:|
-| Scalable architectures | Intelligent automation | End-to-end development |
+| Scalable Architectures | Intelligent Automation | End-to-End Development |
 
 </p>
 
 ---
 
-# 🛠️ Tech Ecosystem
+# 🎯 Open To
+
+- Software Development Engineer (SDE)
+- Full Stack Developer Roles
+- Backend Developer Roles
+- Cloud & DevOps Opportunities
+- Graduate Programs & Internships
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=angular,java,spring,nodejs,express,mongodb,postgresql,aws,docker,linux,html,css,js,ts,git,github,vscode" />
@@ -83,39 +92,58 @@ Building scalable web applications and cloud-powered solutions 🚀
 
 # 🚀 Featured Projects
 
-### ⛓️ ChainClaim
+## ⛓️ ChainClaim
 
-Insurance Claim Management Platform with workflow automation, fraud detection, analytics dashboard, and secure claim processing.
+Insurance Claim Management Platform with workflow automation, fraud detection dashboard, analytics engine, and secure claim processing.
 
-**Tech Stack:** Angular • Spring Boot • PostgreSQL
+### Tech Stack
 
----
-
-### ⚡ Cloud Thrift
-
-AWS Cost Optimization Platform that identifies idle cloud resources and reduces infrastructure waste through automation.
-
-**Tech Stack:** Python • AWS • Lambda • CloudWatch • Boto3
+Angular • Spring Boot • PostgreSQL
 
 ---
 
-### 🎓 Student Feedback System
+## ⚡ Cloud Thrift
+
+AWS Cost Optimization Platform that automatically identifies idle cloud resources and reduces infrastructure costs through automation.
+
+### Tech Stack
+
+Python • AWS • Lambda • CloudWatch • Boto3
+
+---
+
+## 🎓 Student Feedback System
 
 Role-based academic feedback platform with JWT authentication, analytics dashboard, and secure administration panel.
 
-**Tech Stack:** Angular • Spring Boot • PostgreSQL
+### Features
+
+- JWT Authentication
+- Role-Based Access Control
+- Feedback Analytics
+- Admin Dashboard
+
+### Tech Stack
+
+Angular • Spring Boot • PostgreSQL
 
 ---
 
-### 🧠 NoteMate
+## 🧠 NoteMate
 
-AI-powered Notes Summarizer that converts lengthy content into concise and meaningful summaries.
+AI-Powered Notes Summarizer that generates concise summaries from lengthy content.
 
-**Tech Stack:** React • Node.js • MongoDB • OpenAI API
+### Tech Stack
+
+React • Node.js • OpenAI API • MongoDB
 
 ---
 
 # 📊 Developer Analytics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaveesh9876-png&theme=tokyonight"/>
+</p>
 
 <p align="center">
 
@@ -133,6 +161,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesh9876-
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=kaveesh9876-png&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -171,6 +207,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesh9876-
 
 ✔ Scalable Backend Architecture
 
+✔ Cloud Cost Optimization Solutions
+
+✔ AI-Powered Applications
+
 ---
 
 # 🌍 Coding Journey
@@ -182,7 +222,8 @@ Database      ██████████████   88%
 Cloud AWS     ████████████     80%
 DevOps        ██████████       75%
 System Design ███████████      78%
-````
+AI/ML         █████████        72%
+```
 
 ---
 
@@ -193,6 +234,8 @@ System Design ███████████      78%
 <img src="https://img.shields.io/badge/Angular-Framework-DD0031?style=for-the-badge&logo=angular"/>
 
 <img src="https://img.shields.io/badge/SpringBoot-Backend-6DB33F?style=for-the-badge&logo=springboot"/>
+
+<img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js"/>
 
 <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws"/>
 
@@ -243,4 +286,3 @@ Made with ❤️ by <b>Kaveesh Dhiman</b>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203A43,100:2c5364"/>
 </p>
-```
