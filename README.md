@@ -118,7 +118,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesh9876-
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="www.linkedin.com/in/kaveesh-dhiman-4b619b322">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
