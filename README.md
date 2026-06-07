@@ -1,3 +1,4 @@
+<!-- HEADER ANIMATION -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kaveesh%20Dhiman&fontSize=40&fontColor=ffffff" />
 </p>
@@ -5,7 +6,7 @@
 <h3 align="center">Full Stack Developer | Angular • Spring Boot • Node.js • AWS</h3>
 
 <p align="center">
-Building scalable web applications and cloud-based solutions
+Building scalable web applications and cloud-based solutions 🚀
 </p>
 
 ---
@@ -14,7 +15,7 @@ Building scalable web applications and cloud-based solutions
 - 🎓 Final Year B.Tech CSE Student  
 - 💻 Full Stack Developer  
 - 🧠 Ex-Intern @ National Informatics Centre (NIC), Govt. of India  
-- 🚀 Focused on scalable backend systems + modern frontend apps  
+- 🚀 Passionate about scalable backend systems & modern UI/UX  
 
 ---
 
@@ -39,17 +40,17 @@ Building scalable web applications and cloud-based solutions
 Insurance claim management system with workflow automation and analytics dashboard.
 
 ### 🔹 Cloud-Thrift
-Full-stack web application for cloud-based service management.
+Full-stack cloud service management platform.
 
 ### 🔹 Student Feedback System
-Academic feedback platform with role-based access and reporting system.
+Academic feedback system with role-based access control.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaveesh9876-png&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaveesh9876-png&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </p>
 
 <p align="center">
@@ -58,6 +59,28 @@ Academic feedback platform with role-based access and reporting system.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaveesh9876-png&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 ## 📫 Contact
 
 - 📧 Email: kaveesh9876@gmail.com  
+
+---
+
+<p align="center">
+  🚀 Thanks for visiting my profile!
+</p>
