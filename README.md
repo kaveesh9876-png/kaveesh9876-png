@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kaveesh Dhiman 👋
 
-<!--
-**kaveesh9876-png/kaveesh9876-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Ex-Intern @ National Informatics Centre (NIC), Government of India
+
+🛠️ Tech Stack
+- Angular
+- Spring Boot
+- Node.js
+- MongoDB
+- PostgreSQL
+- AWS
+
+🚀 Featured Projects
+- ChainClaim
+- Cloud-Thrift
+- Student Feedback System
+
+📫 Contact
+- Email: kaveesh9876@gmail.com
