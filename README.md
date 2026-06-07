@@ -44,6 +44,52 @@ Building scalable web applications and cloud-powered solutions 🚀
 📫 Reach me at: **kaveesh9876@gmail.com**
 
 ---
+# 🚀 Current Mission Control
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### ☁️
+### AWS Cloud
+Building cloud-native solutions
+
+</td>
+
+<td align="center" width="20%">
+
+### 🎓
+### Student Feedback
+Full Stack Academic Platform
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚡
+### Cloud Thrift
+AWS Cost Optimization Bot
+
+</td>
+
+<td align="center" width="20%">
+
+### 🏗️
+### System Design
+Scalable Architectures
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤖
+### AI Apps
+Intelligent Solutions
+
+</td>
+</tr>
+</table>
+
 
 # 🛠 Tech Stack
 
@@ -147,6 +193,14 @@ React • Node.js • OpenAI API • MongoDB
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaveesh9876-png&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesh9876-png&layout=compact&theme=tokyonight"/>
+</p>
+
+
 # 👀 Profile Views
 
 <p align="center">
@@ -162,3 +216,6 @@ React • Node.js • OpenAI API • MongoDB
 <p align="center">
 Made with ❤️ by <b>Kaveesh Dhiman</b>
 </p>ye lo isme krdo
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203A43,100:2c5364"/>
+</p>
