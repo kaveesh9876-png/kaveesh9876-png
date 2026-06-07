@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kaveesh%20Dhiman&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Kaveesh%20Dhiman&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kaveesh Dhiman</h1>
@@ -10,124 +10,148 @@ Full Stack Developer | Angular • Spring Boot • Node.js • AWS
 </h3>
 
 <p align="center">
-Building scalable web applications and cloud-based solutions 🚀
+Building scalable web applications and cloud-powered solutions 🚀
+</p>
+
+<p align="center">
+  <a href="mailto:kaveesh9876@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/kaveesh9876-png">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kaveesh-dhiman-4b619b322">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## ⚡ About Me
+# 💫 About Me
 
-- 🎓 Final Year B.Tech CSE Student
-- 💻 Full Stack Developer
-- 🧠 Ex-Intern @ National Informatics Centre (NIC)
-- 🚀 Passionate about scalable backend systems & modern UI/UX
-- 🌱 Currently exploring Cloud & DevOps
-- 📫 Reach me at: **kaveesh9876@gmail.com**
+🎓 Final Year B.Tech Computer Science Student
+
+💻 Full Stack Developer
+
+🏢 Ex-Intern @ National Informatics Centre (NIC), Govt. of India
+
+🚀 Passionate about Backend Engineering, Cloud Computing & Modern UI/UX
+
+🌱 Currently learning AWS, System Design and DevOps
+
+📫 Reach me at: **kaveesh9876@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=angular,java,spring,nodejs,express,mongodb,postgresql,aws,html,css,js,ts,git,github,vscode" />
-
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 ChainClaim
-Insurance claim management system with workflow automation and analytics dashboard.
+## 🔹 ChainClaim
 
-### 🔹 Cloud-Thrift
-Full-stack cloud service management platform.
+Insurance Claim Management System with workflow automation, analytics dashboard, and secure claim processing.
 
-### 🔹 Student Feedback System
-Academic feedback system with role-based access control.
-
-### 🔹 NoteMate
-AI-powered Notes Summarizer using React + Node.js.
+### Tech Stack
+Angular • Spring Boot • PostgreSQL
 
 ---
 
-## 📊 GitHub Statistics
+## 🔹 Cloud-Thrift
+
+Cloud Service Management Platform enabling scalable service deployment and monitoring.
+
+### Tech Stack
+Angular • Node.js • MongoDB • AWS
+
+---
+
+## 🔹 Student Feedback System
+
+Role-based academic feedback platform with secure authentication and admin dashboard.
+
+### Features
+
+- JWT Authentication
+- Role-Based Access Control
+- Feedback Analytics
+- Admin Dashboard
+
+### Tech Stack
+
+Angular • Spring Boot • PostgreSQL
+
+---
+
+## 🔹 NoteMate
+
+AI-Powered Notes Summarizer that generates concise summaries from lengthy content.
+
+### Tech Stack
+
+React • Node.js • OpenAI API • MongoDB
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=kaveesh9876-png&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesh9876-png&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveesh9876-png&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🏆 Achievements
 
-<p align="center">
+🏢 Internship at National Informatics Centre (NIC)
 
-<img src="https://streak-stats.demolab.com?user=kaveesh9876-png&theme=tokyonight"/>
+💻 Built multiple Full Stack Applications
 
-</p>
+☁️ Hands-on experience with AWS Cloud Services
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveesh9876-png&theme=tokyo-night"/>
-
-</p>
+🎯 Strong focus on scalable backend systems
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kaveesh9876-png&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=kaveesh9876-png&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:kaveesh9876@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://github.com/kaveesh9876-png">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="www.linkedin.com/in/kaveesh-dhiman-4b619b322">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/kaveesh-dhiman-4b619b322">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=kaveesh9876-png&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-⭐ From <b>Kaveesh Dhiman</b>
+---
 
+<p align="center">
+⭐ If you like my work, consider following me on GitHub!
+</p>
+
+<p align="center">
+Made with ❤️ by <b>Kaveesh Dhiman</b>
 </p>
