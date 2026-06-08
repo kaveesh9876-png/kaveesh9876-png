@@ -100,8 +100,7 @@ Insurance Claim Management Platform with workflow automation, fraud detection da
 
 Angular • Spring Boot • PostgreSQL
 
-
-https://github.com/kaveesh9876-png/chainclaim
+🔗 https://github.com/kaveesh9876-png/chainclaim
 
 ---
 
@@ -113,7 +112,7 @@ AWS Cost Optimization Platform that automatically identifies idle cloud resource
 
 Python • AWS • Lambda • CloudWatch • Boto3
 
-https://github.com/kaveesh9876-png/cloud-thrift
+🔗 https://github.com/kaveesh9876-png/cloud-thrift
 
 ---
 
@@ -131,6 +130,8 @@ Role-based academic feedback platform with JWT authentication, analytics dashboa
 ### Tech Stack
 
 Angular • Spring Boot • PostgreSQL
+
+🔗 https://github.com/kaveesh9876-png/student-feedback-system
 
 ---
 
