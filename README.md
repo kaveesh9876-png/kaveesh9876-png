@@ -99,6 +99,8 @@ Insurance Claim Management Platform with workflow automation, fraud detection da
 ### Tech Stack
 
 Angular • Spring Boot • PostgreSQL
+
+
 https://github.com/kaveesh9876-png/chainclaim
 
 ---
@@ -110,6 +112,8 @@ AWS Cost Optimization Platform that automatically identifies idle cloud resource
 ### Tech Stack
 
 Python • AWS • Lambda • CloudWatch • Boto3
+
+https://github.com/kaveesh9876-png/cloud-thrift
 
 ---
 
